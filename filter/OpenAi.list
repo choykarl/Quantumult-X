@@ -9,5 +9,5 @@ HOST-SUFFIX,googletagmanager.com,OpenAi
 HOST-SUFFIX,f7tk.com,OpenAi
 HOST-SUFFIX,doubleclick.net,OpenAi
 HOST-SUFFIX,google-analytics.com,OpenAi
-HOST-SUFFIX,ai.com,OpenAi
+HOST-SUFFIX,ai.com,OpenAi,
 HOST,https://bard.google.com,OpenAi

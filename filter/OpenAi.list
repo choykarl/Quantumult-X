@@ -11,6 +11,8 @@ HOST-SUFFIX,compute-pipe.com,OpenAi
 HOST-SUFFIX,stripe.com,OpenAi
 HOST-SUFFIX,stripe.network,OpenAi
 HOST-SUFFIX,sentry.io,OpenAi
+HOST-SUFFIX,oaistatic.com,OpenAi
+HOST-SUFFIX,oaiusercontent.com,OpenAi
 HOST-KEYWORD,openai,OpenAi
 HOST-KEYWORD,openaiapi,OpenAi
 HOST-KEYWORD,openaipublic,OpenAi
